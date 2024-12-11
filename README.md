@@ -1,4 +1,5 @@
 # Google-Script-Telegram-Bot-Info-Cuaca
+Script telegram bot ini akan menggunakan layanan penyedia informasi cuaca gratis dari OpenWeatherMap. Jika belum memiliki akun, silakan mendaftar terlebih dahulu di: openweathermap.org
 
 **Cara Menggunakan:**
 
